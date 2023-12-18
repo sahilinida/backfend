@@ -1,0 +1,10 @@
+#rr{
+background: #f05d5d;
+}
+
+
+#ckeakbt:checked~nav{
+    
+    left: 3px;
+
+}

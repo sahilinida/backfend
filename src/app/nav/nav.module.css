@@ -1,0 +1,26 @@
+.nav{
+display: flex;
+    background: #ce7676;
+}
+
+.ul.li{
+   display: flex;
+}
+.li{
+    background: #000;
+    display: inline-block;
+    float: right;
+  
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background: rgb(0, 0, 0)232;
+}
+.cbtn{
+    background: #000;
+    float: right;
+}
+.check:checked~.nav{
+    background: #000;
+}
